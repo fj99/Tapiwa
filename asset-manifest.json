@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tapiwa/static/css/main.3106363d.css",
+    "main.js": "/Tapiwa/static/js/main.9b7041c2.js",
+    "static/js/415.c96f54ff.chunk.js": "/Tapiwa/static/js/415.c96f54ff.chunk.js",
+    "static/js/787.c4ce4288.chunk.js": "/Tapiwa/static/js/787.c4ce4288.chunk.js",
+    "index.html": "/Tapiwa/index.html",
+    "main.3106363d.css.map": "/Tapiwa/static/css/main.3106363d.css.map",
+    "main.9b7041c2.js.map": "/Tapiwa/static/js/main.9b7041c2.js.map",
+    "415.c96f54ff.chunk.js.map": "/Tapiwa/static/js/415.c96f54ff.chunk.js.map",
+    "787.c4ce4288.chunk.js.map": "/Tapiwa/static/js/787.c4ce4288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3106363d.css",
+    "static/js/main.9b7041c2.js"
+  ]
+}
